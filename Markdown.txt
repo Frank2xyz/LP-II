@@ -1,0 +1,51 @@
+__Encabezados__
+	#
+	##
+	###
+
+
+_Bloque de código_
+
+```markdown
+cualquier codigo va
+aqui
+tenkiu
+```
+
+```
+cualquier codigo va
+aqui
+tenkiu
+```
+
+
+
+_Estilos de fuente_
+
+**negrita
+_cursiva_
+~~tachado~~
+
+_listas viñetas_
+- aqui algo escrito
+	- AQUI ALGO ESCRITO
+1. aqui algo escrito
+	1. aqui algo escrito
+
+_Links
+http://www.github.com/
+[nombre a visualizar](link de la fuente)
+
+_Imagenes_
+![Turing's Device](http://www.google.com/logos/2012/turing-doodle-static.jpg "Alan Turing's 100th Birthday")
+
+_Citas_
+> Algo aquì escrito.
+
+> [Fernando Perez](https://twitter.com/fperez_org)
+
+_Linea horizontal_
+algo aqui escrito
+
+----
+
